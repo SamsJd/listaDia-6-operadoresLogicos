@@ -1,0 +1,1 @@
+# listaDia-6-operadoresLogicos
